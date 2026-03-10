@@ -2,6 +2,6 @@
 <project version="4">
   <component name="ScalaCompilerConfiguration">
     <option name="separateProdTestSources" value="true" />
-    <profile name="sbt 1" modules="scala-task-1,scala-task-1.main,scala-task-1.test,scala-task-1_8636,scala-task-1_8636.main,scala-task-1_8636.test" />
+    <profile name="sbt 1" modules="Scala task 1,Scala task 1.main,Scala task 1.test,scala-task-1,scala-task-1.main,scala-task-1.test,scala-task-1_8636,scala-task-1_8636.main,scala-task-1_8636.test" />
   </component>
 </project>

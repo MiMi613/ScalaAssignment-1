@@ -5,24 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55f21e68-5b97-4062-907b-e62b6bbff066" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/scala_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/scala/Tests.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.scala-build/ide-envs.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.scala-build/ide-inputs.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.scala-build/ide-launcher-options.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.scala-build/ide-options-v2.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.scala-build/stacktraces/1773077680-4609540628249218951.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.scala" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/main.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/main.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/project.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/scala/Test.sc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/scala/Test.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/scala/Tests.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/Tests.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/scala/mainTest.sc" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,6 +140,8 @@
       <workItem from="1773100670293" duration="118000" />
       <workItem from="1773100800722" duration="7338000" />
       <workItem from="1773108437048" duration="267000" />
+      <workItem from="1773108722292" duration="622000" />
+      <workItem from="1773137734633" duration="361000" />
     </task>
     <servers />
   </component>
